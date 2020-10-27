@@ -9,4 +9,11 @@
     <string name="invalid_username">Not a valid username</string>
     <string name="invalid_password">Password must be >5 characters</string>
     <string name="login_failed">"Login failed"</string>
+    <!--ratepage-->
+    <string name="rate_page">RatePage</string>
+    <string name="btn_dollar_label">dollar</string>
+    <string name="btn_euro_label">euro</string>
+    <string name="btn_won_label">won</string>
+    <!--configpage-->
+    <string name="btn_save_label">save</string>
 </resources>
